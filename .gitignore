@@ -8,3 +8,8 @@ yarn.lock
 
 # other
 .DS_Store
+
+# firebase
+.firebase
+.firebaserc
+firebase.json
